@@ -98,12 +98,7 @@ exit
 php artisan migrate
 ```
 
-7. **Seed database (optional)**
-```bash
-php artisan db:seed --class=BlogSeeder
-```
-
-8. **Start the server**
+7. **Start the server**
 ```bash
 php artisan serve
 ```
